@@ -8,7 +8,7 @@ const Footer = () => {
 					<div
 						style={{
 							height: '20vh',
-							borderLeft: '1px solid lightgrey'
+							borderLeft: '1px solid silver'
 						}}
 						className='col-lg-3 col-sm-12 mt-5'>
 						<div className='d-flex align-items-center justify-content-center'>
@@ -28,7 +28,7 @@ const Footer = () => {
 					<div
 						style={{
 							height: '20vh',
-							borderLeft: '1px solid lightgrey'
+							borderLeft: '1px solid silver'
 						}}
 						className='col-lg-3 col-sm-12 mt-5'>
 						<div className='d-flex align-items-center justify-content-center'>
@@ -45,7 +45,7 @@ const Footer = () => {
 					<div
 						style={{
 							height: '20vh',
-							borderLeft: '1px solid lightgrey'
+							borderLeft: '1px solid silver'
 						}}
 						className='col-lg-3 col-sm-12 mt-5'>
 						<div className='d-flex align-items-center justify-content-center'>
@@ -60,20 +60,20 @@ const Footer = () => {
 						</div>
 					</div>
 					<div
-						style={{height: '30vh', backgroundColor: 'orange'}}
+						style={{height: '30vh', backgroundColor: 'blue'}}
 						className='col-lg-3 col-sm-12'>
 						<div className='text-center mt-5'>
 							<a className='text-white' href=''>
-								<i className='mx-1 fab fa-facebook-f'></i>
+								<i className='mx-2 fab fa-facebook-f'></i>
 							</a>
 							<a className='text-white' href=''>
-								<i className='mx-1 fab fa-linkedin'></i>
+								<i className='mx-2 fab fa-linkedin'></i>
 							</a>
 							<a className='text-white' href=''>
-								<i className='mx-1 fab fa-github'></i>
+								<i className='mx-2 fab fa-github'></i>
 							</a>
 							<a className='text-white' href=''>
-								<i className='mx-1 fab fa-instagram'></i>
+								<i className='mx-2 fab fa-instagram'></i>
 							</a>
 						</div>
 						<div

@@ -2,8 +2,8 @@ import React from 'react';
 
 const Skills = () => {
 	return (
-		<div className='container'>
-			<div className='jumbotron mx-2 mt-4'>
+		<div className='container pt-4'>
+			<div className='jumbotron mx-2'>
 				<h1
 					style={{fontWeight: 'bold'}}
 					className='text-dark text-center mb-4'>
@@ -198,11 +198,6 @@ const Skills = () => {
 						</div>
 					</div>
 				</div>
-
-				{/* HTML + CSS
-                         JAVASCRIPT + REACT
-                              LARAVEL + WORDPRESS
-                                   OFFICE + RESPONSIVE */}
 			</div>
 		</div>
 	);

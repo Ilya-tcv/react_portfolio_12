@@ -3,8 +3,8 @@ import React from 'react';
 const Contact = () => {
 	return (
 		<div>
-			<div className='container'>
-				<div className='jumbotron mx-2 mt-4'>
+			<div className='container pt-4'>
+				<div className='jumbotron mx-2'>
 					<h1
 						style={{fontWeight: 'bold'}}
 						className='text-dark text-center mb-4'>
