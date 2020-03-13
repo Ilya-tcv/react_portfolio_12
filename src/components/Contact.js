@@ -60,35 +60,6 @@ const Contact = () => {
 					</form>
 				</div>
 			</div>
-
-			{/* CONTACT BANNER */}
-			<div className='contactBanner container-fluid bg-dark'>
-				<div className='row'>
-					<div className='col-lg-4 col-sm-12 text-center my-4'>
-						<div className='text-center mb-2'>
-							<i style={{fontSize:'4em', padding:'15px', borderRadius:'50%'}} className='fas fa-phone text-dark bg-danger'></i>
-						</div>
-                              <h5 className='text-white'>Call me :</h5>
-						<span className='text-white'>(+32)488/22.99.86</span>
-					</div>
-                         
-					<div className='col-lg-4 col-sm-12 text-center my-4'>
-						<div className='text-center mb-2'>
-							<i style={{fontSize:'4em', padding:'15px', borderRadius:'50%'}} className='fas fa-map-marked-alt text-dark bg-danger'></i>
-						</div>
-                              <h5 className='text-white'>Find me :</h5>
-						<span className='text-white'>Place de la Minoterie 10,<br/> 1080 Molenbeek-Saint-Jean, <br/>Belgium</span>
-					</div>
-
-					<div className='col-lg-4 col-sm-12 text-center my-4'>
-						<div className='text-center mb-2'>
-							<i style={{fontSize:'4em', padding:'15px', borderRadius:'50%'}} className='fas fa-at text-dark bg-danger'></i>
-						</div>
-                              <h5 className='text-white'>Text me :</h5>
-						<span className='text-white'>chernychovilya@yahoo.fr</span>
-					</div>
-				</div>
-			</div>
 		</div>
 	);
 };
