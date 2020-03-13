@@ -25,14 +25,14 @@ const Experience = () => {
 					<VerticalTimelineElement
                               className='vertical-timeline-element--work'
                               // COULEUR BLEUE PREMIERE BOX
-						contentStyle={{
-							background: 'rgb(33, 150, 243)',
-							color: '#fff'
-                              }}
+						// contentStyle={{
+						// 	background: 'rgb(33, 150, 243)',
+						// 	color: '#fff'
+                              // }}
                               // COULEUR FLECHE DE DROITE
-						contentArrowStyle={{
-							borderRight: '7px solid  rgb(33, 150, 243)'
-						}}
+						// contentArrowStyle={{
+						// 	borderRight: '7px solid  rgb(33, 150, 243)'
+						// }}
 						date='2015 - 2017'
 						iconStyle={{
                                    fontSize: '1.3em',
