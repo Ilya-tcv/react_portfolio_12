@@ -1,0 +1,57 @@
+@import '../../node_modules/react-typist/dist/standalone/Typist.css';
+@font-face {
+  font-family: "Sen", sans-serif;
+  src: url("../../public/fonts/Sen-Regular.ttf");
+}
+body {
+  font-family: "Sen", sans-serif !important;
+  background-color: white !important;
+}
+
+.banner {
+  background-image: url("../img/2927262.jpg");
+  height: 100vh;
+  width: 100%;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+li {
+  display: flex;
+  justify-content: center;
+}
+
+.nav-link {
+  color: white !important;
+  font-size: 20px !important;
+}
+.nav-link:hover {
+  color: red !important;
+}
+
+#skills {
+  padding: 10vh 0;
+  background-image: url("../img/main-bg4.jpg");
+  width: 100%;
+  background-size: cover;
+}
+#skills .mx-4 {
+  transition: all 1s;
+}
+#skills .mx-4:hover {
+  font-size: 1.3em;
+  transition: all 1s;
+}
+
+#experience {
+  padding: 10vh 0;
+  background-image: url("../img/main-bg2.jpg");
+  width: 100%;
+  background-size: cover;
+}
+
+#contact input, #contact textarea {
+  border-radius: 15px;
+}
+
+/*# sourceMappingURL=style.css.map */
